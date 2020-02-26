@@ -2,26 +2,25 @@
 
 
 There are many ways that cloud platforms can enable power users and developers alike to start building smarter applications with Microsoft Azure AI/ML. You will leave this session with an understanding of how to start building smarter applications, and we will demystify how machine learning works (hint, it is not magic!). Additionally, if you are an AWS or GCP cloud user, there will be beneficial information around how AI/ML works and the other cloud providers have some similar AI/ML cloud services.
+## Links and Resouces
+[Create free Azure Account!](https://azure.microsoft.com/en-us/free/?WT.mc_id=ilta-webinar-cassieb)
 
-## [Create free Azure Account!](https://azure.microsoft.com/en-us/free/?WT.mc_id=ilta-webinar-cassieb)
 
-
-## Cognitive Services
+### Cognitive Services
 
 [Cognitive Services Directory](https://azure.microsoft.com/en-us/services/cognitive-services/directory/?WT.mc_id=ilta-webinar-cassieb)
 </br>
-[Classify Images with Custom  (MS Learn)](https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/?WT.mc_id=ilta-webinar-cassieb)
+[Classify Images with Custom Vision (MS Learn)](https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/?WT.mc_id=ilta-webinar-cassieb)
 </br>
 [Translate Speech with Speech Services (MS Learn)](https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/?WT.mc_id=ilta-webinar-cassieb)
 </br>
 [Convert Speech to Text (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/?WT.mc_id=ilta-webinar-cassieb)
-
-
+</br>
 [Automate Model Select with Azure (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=ilta-webinar-cassieb)
 </br>
 [Train Local Model with Azure (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/?WT.mc_id=ilta-webinar-cassieb)
 
-## Power Platform
+### Power Platform
 
 [Power Virtual Agents](https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents/?WT.mc_id=ilta-webinar-cassieb)
 </br>
@@ -31,7 +30,7 @@ There are many ways that cloud platforms can enable power users and developers a
 </br>
 [Power BI](https://docs.microsoft.com/en-us/power-bi/?WT.mc_id=ilta-webinar-cassieb)
 
-## Bot Service
+### Bot Service
 [Bot Service Get Started Docs](https://docs.microsoft.com/en-us/azure/bot-service/?WT.mc_id=ilta-webinar-cassieb)
 </br>
 [Bot Service Features Overview](https://azure.microsoft.com/en-us/services/bot-service/?WT.mc_id=ilta-webinar-cassieb)
@@ -40,7 +39,7 @@ There are many ways that cloud platforms can enable power users and developers a
 </br>
 [Build FAQ Chat Bot with QnA Maker (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/build-a-faq-chat-bot-with-qna-maker-and-azure-bot-service/?WT.mc_id=ilta-webinar-cassieb)
 
-## Language Understanding (LUIS)
+### Language Understanding (LUIS)
 [What is LUIS](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/what-is-luis/?WT.mc_id=ilta-webinar-cassieb)
 </br>
 [LUIS Overview Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/?WT.mc_id=ilta-webinar-cassieb)
@@ -51,7 +50,7 @@ There are many ways that cloud platforms can enable power users and developers a
 </br>
 [LUIS.AI Home](https://luis.ai/home)
 
-## Other Helpful links
+### Other Helpful links
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=ilta-webinar-cassieb)
 </br>
 [Cognitive Service Face API JavaScript Example Doc](https://docs.microsoft.com/en-us/azure/cognitive-services/face/quickstarts/javascript/?WT.mc_id=ilta-webinar-cassieb)
