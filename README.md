@@ -2,9 +2,10 @@
 
 
 There are many ways that cloud platforms can enable power users and developers alike to start building smarter applications with Microsoft Azure AI/ML. You will leave this session with an understanding of how to start building smarter applications, and we will demystify how machine learning works (hint, it is not magic!). Additionally, if you are an AWS or GCP cloud user, there will be beneficial information around how AI/ML works and the other cloud providers have some similar AI/ML cloud services.
-## Links and Resouces
-[Create free Azure Account!](https://azure.microsoft.com/en-us/free/?WT.mc_id=ilta-webinar-cassieb)
 
+### [Create free Azure Account!](https://azure.microsoft.com/en-us/free/?WT.mc_id=ilta-webinar-cassieb)
+
+## Resources
 
 ### Cognitive Services
 
