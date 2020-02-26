@@ -23,8 +23,13 @@
 
 ## Power Platform
 
-## Power BI
-
+[Power Virtual Agents](https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents/?WT.mc_id=ilta-webinar-cassieb)
+</br>
+[Power Automate](https://docs.microsoft.com/en-us/power-automate/?WT.mc_id=ilta-webinar-cassieb)
+</br>
+[Power Apps](https://docs.microsoft.com/en-us/powerapps/?WT.mc_id=ilta-webinar-cassieb)
+</br>
+[Power BI](https://docs.microsoft.com/en-us/power-bi/?WT.mc_id=ilta-webinar-cassieb)
 
 ## Bot Service
 [Bot Service Get Started Docs](https://docs.microsoft.com/en-us/azure/bot-service/?WT.mc_id=ilta-webinar-cassieb)
