@@ -2,7 +2,7 @@
 
 
 There are many ways that cloud platforms can enable power users and developers alike to start building smarter applications with prebuilt AI/ML models. You will leave this session with an understanding of how to start building smarter applications, and we will demystify how machine learning works (hint, it is not magic!).
-## [Webinar Presentation Recording](https://www.youtube.com/watch?v=VuGyS6tlg7w)
+## [Webinar Presentation Video](https://www.youtube.com/watch?v=VuGyS6tlg7w)
 
 ## Resources
 
